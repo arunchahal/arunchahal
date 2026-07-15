@@ -16,8 +16,6 @@
 
 I am a passionate developer from India with a strong foundation in computer science. I specialize in building scalable, efficient systems and exploring machine learning applications. I am driven by curiosity to solve complex problems and transform innovative ideas into elegant, production-ready code.
 
-Currently focused on backend development, systems programming, and leveraging AI/ML to solve real-world problems.
-
 ---
 
 ## Technical Skills
@@ -71,10 +69,8 @@ Currently focused on backend development, systems programming, and leveraging AI
 
 A comprehensive platform connecting citizens, volunteers, NGOs, and admins for coordinated emergency response. Features include SOS requests, shelter discovery, resource tracking, and real-time coordination to ensure faster, organized emergency response.
 
-- **Role:** Full Stack Developer
-- **Technologies:** JavaScript, React, Firebase
-- **Features:** Real-time data sync, User authentication, Location-based services
-- **Links:** [Repository](https://github.com/arunchahal/ReliefLink) | [Live Demo](https://relief-link-five.vercel.app)
+**Technologies:** JavaScript, React, Firebase  
+**Links:** [Repository](https://github.com/arunchahal/ReliefLink) | [Live Demo](https://relief-link-five.vercel.app)
 
 ---
 
@@ -82,11 +78,8 @@ A comprehensive platform connecting citizens, volunteers, NGOs, and admins for c
 
 A fully functional Unix shell implementation in C with POSIX system calls. This project demonstrates deep understanding of operating systems concepts including process management, inter-process communication, and signal handling.
 
-- **Role:** Solo Developer
-- **Technologies:** C, POSIX system calls
-- **Features:** Pipes, I/O redirection, background jobs, built-in commands, signal handling
-- **Learning Focus:** Operating systems, systems programming
-- **Repository:** [View Code](https://github.com/arunchahal/myshell-Custom-Unix-Shell-in-C)
+**Technologies:** C, POSIX system calls  
+**Repository:** [View Code](https://github.com/arunchahal/myshell-Custom-Unix-Shell-in-C)
 
 ---
 
@@ -94,9 +87,8 @@ A fully functional Unix shell implementation in C with POSIX system calls. This 
 
 An intelligent photo restoration tool leveraging advanced image processing techniques to restore and enhance degraded or old photographs. Implements computer vision algorithms for artifact removal and quality enhancement.
 
-- **Technologies:** JavaScript, Image Processing
-- **Features:** Photo enhancement, artifact removal, quality restoration
-- **Repository:** [View Code](https://github.com/arunchahal/Old-Photo-Restoration)
+**Technologies:** JavaScript, Image Processing  
+**Repository:** [View Code](https://github.com/arunchahal/Old-Photo-Restoration)
 
 ---
 
@@ -104,9 +96,8 @@ An intelligent photo restoration tool leveraging advanced image processing techn
 
 An IoT-based waste management solution designed for efficient waste tracking and disposal optimization. Integrates sensors with web platform for real-time monitoring.
 
-- **Technologies:** JavaScript, IoT, Real-time monitoring
-- **Features:** Waste tracking, Route optimization, Analytics dashboard
-- **Repository:** [View Code](https://github.com/arunchahal/smart-waste-disposal-system)
+**Technologies:** JavaScript, IoT  
+**Repository:** [View Code](https://github.com/arunchahal/smart-waste-disposal-system)
 
 ---
 
@@ -117,16 +108,6 @@ An IoT-based waste management solution designed for efficient waste tracking and
 - Microservices architecture and distributed systems
 - Cloud computing platforms and DevOps practices
 - System design patterns and scalability
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=arunchahal&theme=default&hide_border=true)
-
-</div>
 
 ---
 
