@@ -14,44 +14,94 @@
 
 ## About Me
 
-I am a passionate backend developer and AI/ML enthusiast from India with a strong foundation in computer science. I specialize in building scalable, efficient systems and exploring machine learning applications. I am driven by a curiosity to solve complex problems and transform innovative ideas into elegant, production-ready code.
+I am a passionate developer from India with a strong foundation in computer science. I specialize in building scalable, efficient systems and exploring machine learning applications. I am driven by a curiosity to solve complex problems and transform innovative ideas into elegant, production-ready code.
 
 ---
 
 ## Technical Skills
 
 ### Languages
-- **Programming:** Python, C, C++, JavaScript
-- **Web Development:** HTML5, CSS3
 
-### Backend & Databases
-- REST API Development
-- MySQL Database Design and Optimization
-- Microservices Architecture (Learning)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 0 10px;"/>
+</p>
+
+### Databases & Backend
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="margin: 0 10px;"/>
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin: 0 10px;"/>
+</p>
 
 ### Tools & Technologies
-- Git / GitHub
-- Visual Studio Code
-- Postman
-- TensorFlow & PyTorch (ML/AI)
 
-### Areas of Expertise
-- Backend Development
-- Algorithm Design & Data Structures
-- Machine Learning & Deep Learning
-- System Design
-- Problem Solving
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin: 0 10px;"/>
+</p>
+
+### Machine Learning & AI
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" style="margin: 0 10px;"/>
+</p>
 
 ---
 
 ## Featured Projects
 
-| Project | Description | Link | Technologies |
-|---------|-------------|------|--------------|
-| **ReliefLink** | A disaster relief platform connecting citizens, volunteers, NGOs, and admins for coordinated emergency response. Features SOS requests, shelter discovery, resource tracking, and real-time coordination. | [View Repo](https://github.com/arunchahal/ReliefLink) | JavaScript, React, Firebase |
-| **MyShell - Custom Unix Shell** | A fully functional Unix shell implementation in C with POSIX system calls, supporting pipes, I/O redirection, background jobs, built-in commands, and signal handling. | [View Repo](https://github.com/arunchahal/myshell-Custom-Unix-Shell-in-C) | C, POSIX |
-| **Old-Photo-Restoration** | An intelligent photo restoration tool leveraging image processing techniques to restore and enhance degraded photographs. | [View Repo](https://github.com/arunchahal/Old-Photo-Restoration) | JavaScript, Image Processing |
-| **Smart Waste Disposal System** | An IoT-based waste management solution for efficient waste tracking and disposal optimization. | [View Repo](https://github.com/arunchahal/smart-waste-disposal-system) | JavaScript, IoT |
+### ReliefLink
+**Disaster Relief Platform**
+
+A comprehensive platform connecting citizens, volunteers, NGOs, and admins for coordinated emergency response. Features SOS requests, shelter discovery, resource tracking, and real-time coordination.
+
+**Technologies:** JavaScript, React, Firebase  
+**Status:** Live - [View Repository](https://github.com/arunchahal/ReliefLink) | [Live Demo](https://relief-link-five.vercel.app)
+
+---
+
+### MyShell - Custom Unix Shell
+**Operating Systems Project**
+
+A fully functional Unix shell implementation in C with POSIX system calls. Supports pipes, I/O redirection, background jobs, built-in commands, and signal handling. Built for learning OS and systems programming.
+
+**Technologies:** C, POSIX  
+**Status:** [View Repository](https://github.com/arunchahal/myshell-Custom-Unix-Shell-in-C)
+
+---
+
+### Old-Photo-Restoration
+**Image Processing Project**
+
+An intelligent photo restoration tool leveraging advanced image processing techniques to restore and enhance degraded photographs.
+
+**Technologies:** JavaScript, Image Processing  
+**Status:** [View Repository](https://github.com/arunchahal/Old-Photo-Restoration)
+
+---
+
+### Smart Waste Disposal System
+**IoT Solution**
+
+An IoT-based waste management solution for efficient waste tracking and disposal optimization.
+
+**Technologies:** JavaScript, IoT  
+**Status:** [View Repository](https://github.com/arunchahal/smart-waste-disposal-system)
 
 ---
 
