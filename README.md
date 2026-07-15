@@ -14,7 +14,9 @@
 
 ## About Me
 
-I am a passionate developer from India with a strong foundation in computer science. I specialize in building scalable, efficient systems and exploring machine learning applications. I am driven by a curiosity to solve complex problems and transform innovative ideas into elegant, production-ready code.
+I am a passionate developer from India with a strong foundation in computer science. I specialize in building scalable, efficient systems and exploring machine learning applications. I am driven by curiosity to solve complex problems and transform innovative ideas into elegant, production-ready code.
+
+Currently focused on backend development, systems programming, and leveraging AI/ML to solve real-world problems.
 
 ---
 
@@ -22,86 +24,89 @@ I am a passionate developer from India with a strong foundation in computer scie
 
 ### Languages
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 0 10px;"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" style="margin: 0 12px;"/>
 </p>
 
 ### Databases & Backend
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="margin: 0 10px;"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="45" height="45" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45" style="margin: 0 12px;"/>
 </p>
 
-### Frontend
+### Frontend & UI
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin: 0 10px;"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45" style="margin: 0 12px;"/>
 </p>
 
 ### Tools & Technologies
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin: 0 10px;"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="45" height="45" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45" style="margin: 0 12px;"/>
 </p>
 
 ### Machine Learning & AI
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" style="margin: 0 10px;"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="45" height="45" style="margin: 0 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="45" height="45" style="margin: 0 12px;"/>
 </p>
 
 ---
 
 ## Featured Projects
 
-### ReliefLink
-**Disaster Relief Platform**
+### ReliefLink - Disaster Relief Platform
 
-A comprehensive platform connecting citizens, volunteers, NGOs, and admins for coordinated emergency response. Features SOS requests, shelter discovery, resource tracking, and real-time coordination.
+A comprehensive platform connecting citizens, volunteers, NGOs, and admins for coordinated emergency response. Features include SOS requests, shelter discovery, resource tracking, and real-time coordination to ensure faster, organized emergency response.
 
-**Technologies:** JavaScript, React, Firebase  
-**Status:** Live - [View Repository](https://github.com/arunchahal/ReliefLink) | [Live Demo](https://relief-link-five.vercel.app)
+- **Role:** Full Stack Developer
+- **Technologies:** JavaScript, React, Firebase
+- **Features:** Real-time data sync, User authentication, Location-based services
+- **Links:** [Repository](https://github.com/arunchahal/ReliefLink) | [Live Demo](https://relief-link-five.vercel.app)
 
 ---
 
 ### MyShell - Custom Unix Shell
-**Operating Systems Project**
 
-A fully functional Unix shell implementation in C with POSIX system calls. Supports pipes, I/O redirection, background jobs, built-in commands, and signal handling. Built for learning OS and systems programming.
+A fully functional Unix shell implementation in C with POSIX system calls. This project demonstrates deep understanding of operating systems concepts including process management, inter-process communication, and signal handling.
 
-**Technologies:** C, POSIX  
-**Status:** [View Repository](https://github.com/arunchahal/myshell-Custom-Unix-Shell-in-C)
+- **Role:** Solo Developer
+- **Technologies:** C, POSIX system calls
+- **Features:** Pipes, I/O redirection, background jobs, built-in commands, signal handling
+- **Learning Focus:** Operating systems, systems programming
+- **Repository:** [View Code](https://github.com/arunchahal/myshell-Custom-Unix-Shell-in-C)
 
 ---
 
 ### Old-Photo-Restoration
-**Image Processing Project**
 
-An intelligent photo restoration tool leveraging advanced image processing techniques to restore and enhance degraded photographs.
+An intelligent photo restoration tool leveraging advanced image processing techniques to restore and enhance degraded or old photographs. Implements computer vision algorithms for artifact removal and quality enhancement.
 
-**Technologies:** JavaScript, Image Processing  
-**Status:** [View Repository](https://github.com/arunchahal/Old-Photo-Restoration)
+- **Technologies:** JavaScript, Image Processing
+- **Features:** Photo enhancement, artifact removal, quality restoration
+- **Repository:** [View Code](https://github.com/arunchahal/Old-Photo-Restoration)
 
 ---
 
 ### Smart Waste Disposal System
-**IoT Solution**
 
-An IoT-based waste management solution for efficient waste tracking and disposal optimization.
+An IoT-based waste management solution designed for efficient waste tracking and disposal optimization. Integrates sensors with web platform for real-time monitoring.
 
-**Technologies:** JavaScript, IoT  
-**Status:** [View Repository](https://github.com/arunchahal/smart-waste-disposal-system)
+- **Technologies:** JavaScript, IoT, Real-time monitoring
+- **Features:** Waste tracking, Route optimization, Analytics dashboard
+- **Repository:** [View Code](https://github.com/arunchahal/smart-waste-disposal-system)
 
 ---
 
@@ -110,8 +115,18 @@ An IoT-based waste management solution for efficient waste tracking and disposal
 - Advanced Deep Learning architectures with TensorFlow and PyTorch
 - Complex algorithms and optimization techniques
 - Microservices architecture and distributed systems
-- Cloud computing and deployment strategies
-- System design and scalability patterns
+- Cloud computing platforms and DevOps practices
+- System design patterns and scalability
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=arunchahal&theme=default&hide_border=true)
+
+</div>
 
 ---
 
@@ -119,7 +134,9 @@ An IoT-based waste management solution for efficient waste tracking and disposal
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/arunchahal/) | [GitHub](https://github.com/arunchahal) | [Email](mailto:arunchahal004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunchahal/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arunchahal)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arunchahal004@gmail.com)
 
 </div>
 
@@ -127,7 +144,7 @@ An IoT-based waste management solution for efficient waste tracking and disposal
 
 <div align="center">
 
-**Open to collaborating on backend development, AI/ML projects, and innovative solutions.**
+**Open to collaborating on backend development, systems programming, AI/ML projects, and innovative solutions.**
 
 *Last updated: July 2026*
 
