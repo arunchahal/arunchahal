@@ -46,11 +46,12 @@ I am a passionate backend developer and AI/ML enthusiast from India with a stron
 
 ## Featured Projects
 
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| **Student Management System** | A comprehensive web-based CRUD application for managing student records with a user-friendly interface. | Python, MySQL, HTML, CSS, JavaScript |
-| **AI Chatbot** | An intelligent conversational bot utilizing machine learning and natural language processing. Currently in development. | Python, TensorFlow, NLP |
-| **Portfolio Website** | A personal digital portfolio showcasing projects, skills, and professional experience. Built from scratch. | HTML, CSS, JavaScript |
+| Project | Description | Link | Technologies |
+|---------|-------------|------|--------------|
+| **ReliefLink** | A disaster relief platform connecting citizens, volunteers, NGOs, and admins for coordinated emergency response. Features SOS requests, shelter discovery, resource tracking, and real-time coordination. | [View Repo](https://github.com/arunchahal/ReliefLink) | JavaScript, React, Firebase |
+| **MyShell - Custom Unix Shell** | A fully functional Unix shell implementation in C with POSIX system calls, supporting pipes, I/O redirection, background jobs, built-in commands, and signal handling. | [View Repo](https://github.com/arunchahal/myshell-Custom-Unix-Shell-in-C) | C, POSIX |
+| **Old-Photo-Restoration** | An intelligent photo restoration tool leveraging image processing techniques to restore and enhance degraded photographs. | [View Repo](https://github.com/arunchahal/Old-Photo-Restoration) | JavaScript, Image Processing |
+| **Smart Waste Disposal System** | An IoT-based waste management solution for efficient waste tracking and disposal optimization. | [View Repo](https://github.com/arunchahal/smart-waste-disposal-system) | JavaScript, IoT |
 
 ---
 
